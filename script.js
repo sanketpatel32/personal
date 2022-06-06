@@ -17,6 +17,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Little Do YOu Know",
+          artist: "Alex & Sierra",
+          cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/11.jpg",
+          source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/11.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
           name: "Señorita",
           artist: "Mendis",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/1.jpg",
