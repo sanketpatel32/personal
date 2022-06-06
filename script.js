@@ -21,7 +21,7 @@ new Vue({
           artist: "Alex & Sierra",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/11.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/11.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          url: "https://www.youtube.com/watch?v=4bzIpYiPUUo",
           favorited: false
         },
         {
@@ -29,7 +29,7 @@ new Vue({
           artist: "Mendis",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/1.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=Pkh8UtuejGw",
           favorited: false
         },
         {
@@ -37,7 +37,7 @@ new Vue({
           artist: "Wiz & Charli",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/2.jpg",
         source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          url: "https://www.youtube.com/watch?v=RgKAFK5djSk",
           favorited: true
         },
         {
@@ -45,7 +45,7 @@ new Vue({
           artist: "Neeraj Shreeshar",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/3.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          url: "https://www.youtube.com/watch?v=o1RducJbUdc",
           favorited: false
         },
         {
@@ -53,7 +53,7 @@ new Vue({
           artist: "Shankar Mahadev",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/4.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          url: "https://www.youtube.com/watch?v=qTsAdjULqwg",
           favorited: false
         },
         {
@@ -61,7 +61,7 @@ new Vue({
           artist: "Ellie Goulding",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/5.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          url: "https://www.youtube.com/watch?v=bgjUzhdmmF0",
           favorited: true
         },
         {
@@ -69,7 +69,7 @@ new Vue({
           artist: "Taylor Swift",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/6.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          url: "https://www.youtube.com/watch?v=IdneKLhsWOQ",
           favorited: false
         },
         {
@@ -77,7 +77,7 @@ new Vue({
           artist: "Arjit Singh",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/7.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          url: "https://www.youtube.com/watch?v=jHNNMj5bNQw",
           favorited: true
         },
         {
@@ -85,7 +85,7 @@ new Vue({
           artist: "Arjit Singh",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/8.mp3",
-            url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+            url: "https://www.youtube.com/watch?v=nJZcbidTutE",
           favorited: false
         },
         {
@@ -93,7 +93,7 @@ new Vue({
           artist: "Dino James",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/9.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://www.youtube.com/watch?v=iSallxKpm8Y",
           favorited: false
         },
         {
@@ -101,7 +101,7 @@ new Vue({
           artist: "1D",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/10.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/10.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          url: "https://www.youtube.com/watch?v=syFZfO_wfMQ",
           favorited: false
         },
         {
@@ -109,7 +109,7 @@ new Vue({
           artist: "Sia",
           cover: "https://raw.githubusercontent.com/sanketpatel32/personal/master/img/15.jpg",
           source: "https://raw.githubusercontent.com/sanketpatel32/personal/master/mp3/15.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          url: "https://www.youtube.com/watch?v=h3h035Eyz5A",
           favorited: false
         },
 
